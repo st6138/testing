@@ -1,1 +1,1 @@
-echo "Hello UC1"
+echo "Hello"
